@@ -1,0 +1,41 @@
+title: Afghanistan insergency zones
+
+[legend]
+name: Taliban control zone
+color: #F48580
+
+name: Taliban support: high confidence
+color: #FDCFAB
+
+name: Taliban support: low-confidence
+color: #FEE9DA
+
+name: Islamic state control/support
+color: #942C61
+[]
+
+[tabs]
+
+image: Afghan2017_2-01.svg
+image_md: Afghan2017_2-01.svg
+props.name: Taliban control
+
+image: Afghan2017_4-01.svg
+image_md: Afghan2017_4-01.svg
+props.name: Taliban control and support
+
+image: Afghan2017_5-01.svg
+image_md: Afghan2017_5-01.svg
+props.name: IS control and suppurt
+
+image: Afghan2017_6-01.svg
+image_md: Afghan2017_6-01.svg
+props.name: Taliban and IS
+
+[]
+
+sources: Sources: IHS Markit
+
+lastUpdate.key: Last update:
+lastUpdate.value: 09/11/2017 18:00:00
+lang: en
