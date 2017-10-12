@@ -1,4 +1,4 @@
-title: Afghanistan insergency zones
+title: Afghanistan insurgency zones
 
 [legend]
 name: Taliban control zone
